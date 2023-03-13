@@ -1,7 +1,7 @@
 {
-  "name": "Costin 'necenzurat' Moise",
+  "name": "Costin necenzurat Moise",
   "description": "A mercenary programmer",
-  "image_url": "https://avatars.githubusercontent.com/u/145449?v=4",
+  "image_url": "https://raw.githubusercontent.com/necenzurat/my-links/main/profile-picture.jpeg",
   "links": [
     {
       "title": "Instagram",
@@ -12,6 +12,6 @@
       "title": "Facebook",
       "url": "http://facebook.com/thenecenzurat",
       "icon": "facebook"
-    }
+    },
   ]
 }
