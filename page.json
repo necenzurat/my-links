@@ -13,5 +13,15 @@
       "url": "http://facebook.com/thenecenzurat",
       "icon": "facebook"
     },
+    {
+      "title": "Le Site",
+      "url": "http://necenzurat.com/",
+      "icon": "link-broken-01"
+    },
+    {
+      "title": "Linkeding",
+      "url": "https://linkedin.com/in/necenzurat",
+      "icon": "linkedin"
+    }
   ]
 }
